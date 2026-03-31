@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Class_0331_2\bin\Debug\net10.0\Class_0331_.exe
+C:\Users\Administrator\Desktop\Class_0331_2\bin\Debug\net10.0\Class_0331_.deps.json
+C:\Users\Administrator\Desktop\Class_0331_2\bin\Debug\net10.0\Class_0331_.runtimeconfig.json
+C:\Users\Administrator\Desktop\Class_0331_2\bin\Debug\net10.0\Class_0331_.dll
+C:\Users\Administrator\Desktop\Class_0331_2\bin\Debug\net10.0\Class_0331_.pdb
+C:\Users\Administrator\Desktop\Class_0331_2\obj\Debug\net10.0\Class_0331_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Class_0331_2\obj\Debug\net10.0\Class_0331_.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Class_0331_2\obj\Debug\net10.0\Class_0331_.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Class_0331_2\obj\Debug\net10.0\Class_0331_.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Class_0331_2\obj\Debug\net10.0\Class_0331_.dll
+C:\Users\Administrator\Desktop\Class_0331_2\obj\Debug\net10.0\refint\Class_0331_.dll
+C:\Users\Administrator\Desktop\Class_0331_2\obj\Debug\net10.0\Class_0331_.pdb
+C:\Users\Administrator\Desktop\Class_0331_2\obj\Debug\net10.0\Class_0331_.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Class_0331_2\obj\Debug\net10.0\ref\Class_0331_.dll
